@@ -3,3 +3,12 @@ input{
     padding: 10px;
     margin: 5px;
 }
+button{
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+h2{
+    color: red;
+}
